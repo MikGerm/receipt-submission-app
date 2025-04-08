@@ -44,13 +44,14 @@ This project is a standalone receipt submission form built using Angular 17 and 
 
 4. Open browser at: http://localhost:4200 (or alternate port if prompted)
 
-Folder Structure
+## Folder Structure
 
 receipt-submission-app/
 ├── frontend/
 │   ├── src/
 │   ├── angular.json
-│   └── package.json
+│   ├── package.json
+│   └── README.md
 ├── backend/
 │   └── server.js
 ├── screenshots/
@@ -59,7 +60,7 @@ receipt-submission-app/
 │   ├── 03-network-success.png
 │   ├── 04-terminal-log.png
 │   └── 05-form-validation.png
-└── README.md
+
 
 ## Testing & Output Validation
 
