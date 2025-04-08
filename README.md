@@ -62,6 +62,7 @@ receipt-submission-app/
 ├── .gitignore
 └── README.md
 
+
 ## Testing & Output Validation
 
 Testing & Output Validation
