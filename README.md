@@ -60,3 +60,23 @@ receipt-submission-app/
 │   ├── 04-terminal-log.png
 │   └── 05-form-validation.png
 └── README.md
+
+## Testing & Output Validation
+
+After submitting a valid form:
+- A `200 OK` response is returned from the backend API.
+- Data is logged in the terminal confirming receipt of:
+  - Vendor Name
+  - Amount
+  - Date
+  - Notes
+- The browser console shows successful network activity.
+- Submit button remains disabled until form is valid.
+
+Screenshots of these outputs are located in the `/screenshots` directory.
+
+## Reflections
+
+This project was a fun and rewarding technical challenge that allowed me to demonstrate full-stack development skills in a real-world scenario. I enjoyed building the frontend and backend independently and integrating them through API communication. The Angular standalone component structure was especially useful for clean modular design. I appreciate the opportunity to complete this assessment and look forward to the next steps!
+
+
