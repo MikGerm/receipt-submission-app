@@ -46,36 +46,22 @@ This project is a standalone receipt submission form built using Angular 17 and 
 
 ## Folder Structure
 
+```
 receipt-submission-app/
-
 ├── frontend/
-
 │   ├── src/
-
 │   ├── angular.json
-
 │   ├── package.json
-
 │   └── README.md
-
 ├── backend/
-
 │   └── server.js
-
 ├── screenshots/
-
 │   ├── 01-form-empty.png
-
 │   ├── 02-form-filled.png
-
 │   ├── 03-network-success.png
-
 │   ├── 04-terminal-log.png
-
 │   └── 05-form-validation.png
-
-
-
+```
 
 ## Testing & Output Validation
 
